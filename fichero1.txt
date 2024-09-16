@@ -1,3 +1,7 @@
 linea 1
 linea 2
+<<<<<<< HEAD
 linea 3 creada en visualStudio code
+=======
+linea 3 creada por github
+>>>>>>> 5baf989699c8482c1e28445e1c1bbec59f81f976
